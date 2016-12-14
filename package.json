@@ -1,0 +1,23 @@
+{
+  "name": "Scripting-with-Request-Package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mruttan/Scripting-with-Request-Package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mruttan/Scripting-with-Request-Package/issues"
+  },
+  "homepage": "https://github.com/mruttan/Scripting-with-Request-Package#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
